@@ -2,11 +2,11 @@
 
 ### Command Line - Arguments Input Commands
 
-wiki_scrapper : First & Main Input command line Argument
-ops : Get Fighter Opponents
-ops+info : Get Fighter Opponents with Info
-info: Get Fighter Info
-{fighter_url} : Fighter url on wiki
+wiki_scrapper : First & Main Input command line Argument <br>
+ops : Get Fighter Opponents <br>
+ops+info : Get Fighter Opponents with Info <br>
+info: Get Fighter Info <br>
+{fighter_url} : Fighter url on wiki <br>
 {file_name}: Name of file to generate after scrapped data
 
 #### Get Fighter Opponents
