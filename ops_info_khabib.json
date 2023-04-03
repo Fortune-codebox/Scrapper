@@ -1,0 +1,642 @@
+[
+  {
+    "link": "https://en.m.wikipedia.org/wiki/Justin_Gaethje",
+    "name": "Justin Gaethje",
+    "outcome": "Win",
+    "info": {
+      "name": "Justin Gaethje",
+      "image": "https://en.m.wikipedia.org/wiki/File:Justin_Gaethje_at_press_conference.png",
+      "born": null,
+      "native_name": null,
+      "nick_name": "The Highlight",
+      "nationality": null,
+      "height": {
+        "imperial": "5 ft 11 in",
+        "metric": "1.80 m"
+      },
+      "weight": {
+        "imperial": "155 lb",
+        "metric": "70 kg",
+        "eng": "11.1 st"
+      },
+      "division": null,
+      "reach": null,
+      "style": null,
+      "stance": null,
+      "fight_out_of": null,
+      "team": null,
+      "trainer": null,
+      "rank": null,
+      "years_active": null,
+      "total": null,
+      "wins": null,
+      "by_knockout": null,
+      "by_submission": null,
+      "by_decision": null,
+      "losses": null,
+      "website": null
+    }
+  },
+  {
+    "link": "https://en.m.wikipedia.org/wiki/Dustin_Poirier",
+    "name": "Dustin Poirier",
+    "outcome": "Win",
+    "info": {
+      "name": "Dustin Poirier",
+      "image": "https://en.m.wikipedia.org/wiki/File:DustinPoirier.png",
+      "born": null,
+      "native_name": null,
+      "nick_name": "The Diamond",
+      "nationality": null,
+      "height": {
+        "imperial": "5 ft 9 in",
+        "metric": "1.75 m"
+      },
+      "weight": {
+        "imperial": "155 lb",
+        "metric": "70 kg",
+        "eng": "11 st 1 lb"
+      },
+      "division": null,
+      "reach": null,
+      "style": null,
+      "stance": null,
+      "fight_out_of": null,
+      "team": null,
+      "trainer": null,
+      "rank": null,
+      "years_active": null,
+      "total": null,
+      "wins": null,
+      "by_knockout": null,
+      "by_submission": null,
+      "by_decision": null,
+      "losses": null,
+      "website": null
+    }
+  },
+  {
+    "link": "https://en.m.wikipedia.org/wiki/Conor_McGregor",
+    "name": "Conor McGregor",
+    "outcome": "Win",
+    "info": {
+      "name": "Conor McGregor",
+      "image": "https://en.m.wikipedia.org/wiki/File:Conor_McGregor_2018.jpg",
+      "born": null,
+      "native_name": null,
+      "nick_name": "Notorious",
+      "nationality": null,
+      "height": {
+        "imperial": "5 ft 9 in",
+        "metric": "175 cm"
+      },
+      "weight": {
+        "imperial": "156 lb",
+        "metric": "71 kg",
+        "eng": "11 st 2 lb"
+      },
+      "division": null,
+      "reach": null,
+      "style": null,
+      "stance": null,
+      "fight_out_of": null,
+      "team": null,
+      "trainer": null,
+      "rank": null,
+      "years_active": null,
+      "total": null,
+      "wins": null,
+      "by_knockout": null,
+      "by_submission": null,
+      "by_decision": null,
+      "losses": null,
+      "website": null
+    }
+  },
+  {
+    "link": "https://en.m.wikipedia.org/wiki/Al_Iaquinta",
+    "name": "Al Iaquinta",
+    "outcome": "Win",
+    "info": {
+      "name": "Al Iaquinta",
+      "image": "https://en.m.wikipedia.org/wiki/File:Al_Iaquinta_at_UFC_230.jpg",
+      "born": null,
+      "native_name": null,
+      "nick_name": "Raging",
+      "nationality": null,
+      "height": {
+        "imperial": "5 ft 10 in",
+        "metric": "1.78 m"
+      },
+      "weight": {
+        "imperial": "155 lb",
+        "metric": "70 kg",
+        "eng": "11.1 st"
+      },
+      "division": null,
+      "reach": null,
+      "style": null,
+      "stance": null,
+      "fight_out_of": null,
+      "team": null,
+      "trainer": null,
+      "rank": null,
+      "years_active": null,
+      "total": null,
+      "wins": null,
+      "by_knockout": null,
+      "by_submission": null,
+      "by_decision": null,
+      "losses": null,
+      "website": null
+    }
+  },
+  {
+    "link": "https://en.m.wikipedia.org/wiki/Edson_Barboza",
+    "name": "Edson Barboza",
+    "outcome": "Win",
+    "info": {
+      "name": "Edson Barboza",
+      "image": "https://en.m.wikipedia.org/wiki/File:Edson_Barboza_at_UFC_262.png",
+      "born": null,
+      "native_name": null,
+      "nick_name": null,
+      "nationality": null,
+      "height": {
+        "imperial": "5 ft 11 in",
+        "metric": "1.80 m"
+      },
+      "weight": {
+        "imperial": "145 lb",
+        "metric": "66 kg",
+        "eng": "10.4 st"
+      },
+      "division": null,
+      "reach": null,
+      "style": null,
+      "stance": null,
+      "fight_out_of": null,
+      "team": null,
+      "trainer": null,
+      "rank": null,
+      "years_active": null,
+      "total": null,
+      "wins": null,
+      "by_knockout": null,
+      "by_submission": null,
+      "by_decision": null,
+      "losses": null,
+      "website": null
+    }
+  },
+  {
+    "link": "https://en.m.wikipedia.org/wiki/Michael_Johnson_(fighter)",
+    "name": "Michael Johnson",
+    "outcome": "Win",
+    "info": {
+      "name": "Michael Johnson",
+      "image": "https://en.m.wikipedia.org/wiki/File:Michael_Johnson_2018.jpg",
+      "born": null,
+      "native_name": null,
+      "nick_name": "The Menace",
+      "nationality": "American",
+      "height": {
+        "imperial": "5 ft 10 in",
+        "metric": "1.78 m"
+      },
+      "weight": {
+        "imperial": "155 lb",
+        "metric": "70 kg",
+        "eng": "11.1 st"
+      },
+      "division": null,
+      "reach": null,
+      "style": null,
+      "stance": null,
+      "fight_out_of": null,
+      "team": null,
+      "trainer": null,
+      "rank": null,
+      "years_active": null,
+      "total": null,
+      "wins": null,
+      "by_knockout": null,
+      "by_submission": null,
+      "by_decision": null,
+      "losses": null,
+      "website": null
+    }
+  },
+  {
+    "link": "https://en.m.wikipedia.org/wiki/Darrell_Horcher",
+    "name": "Darrell Horcher",
+    "outcome": "Win",
+    "info": {
+      "name": "Darrell Horcher",
+      "image": "https://en.m.wikipedia.org/wiki/File:%D0%94%D0%B0%D1%80%D1%80%D0%B5%D0%BB%D0%BB_%D0%A5%D0%BE%D1%80%D1%87%D0%B5%D1%80.jpg",
+      "born": null,
+      "native_name": null,
+      "nick_name": null,
+      "nationality": null,
+      "height": {
+        "imperial": "5 ft 10 in",
+        "metric": "1.78 m"
+      },
+      "weight": {
+        "imperial": "155 lb",
+        "metric": "70 kg",
+        "eng": "11.1 st"
+      },
+      "division": null,
+      "reach": null,
+      "style": null,
+      "stance": null,
+      "fight_out_of": null,
+      "team": null,
+      "trainer": null,
+      "rank": null,
+      "years_active": null,
+      "total": null,
+      "wins": null,
+      "by_knockout": null,
+      "by_submission": null,
+      "by_decision": null,
+      "losses": null,
+      "website": null
+    }
+  },
+  {
+    "link": "https://en.m.wikipedia.org/wiki/Rafael_dos_Anjos",
+    "name": "Rafael dos Anjos",
+    "outcome": "Win",
+    "info": {
+      "name": "Rafael dos Anjos",
+      "image": "https://en.m.wikipedia.org/wiki/Niter%C3%B3i",
+      "born": null,
+      "native_name": null,
+      "nick_name": null,
+      "nationality": "Brazilian ",
+      "height": {
+        "imperial": "5 ft 8 in",
+        "metric": "1.73 m"
+      },
+      "weight": {
+        "imperial": "155 lb",
+        "metric": "70 kg",
+        "eng": "11 st 1 lb"
+      },
+      "division": null,
+      "reach": null,
+      "style": null,
+      "stance": null,
+      "fight_out_of": null,
+      "team": null,
+      "trainer": null,
+      "rank": null,
+      "years_active": null,
+      "total": null,
+      "wins": null,
+      "by_knockout": null,
+      "by_submission": null,
+      "by_decision": null,
+      "losses": null,
+      "website": null
+    }
+  },
+  {
+    "link": "https://en.m.wikipedia.org/wiki/Pat_Healy_(fighter)",
+    "name": "Pat Healy",
+    "outcome": "Win",
+    "info": {
+      "name": "Pat Healy",
+      "image": "https://en.m.wikipedia.org/wiki/Salem,_Oregon",
+      "born": null,
+      "native_name": null,
+      "nick_name": null,
+      "nationality": null,
+      "height": {
+        "imperial": "5 ft 10 in",
+        "metric": "1.78 m"
+      },
+      "weight": {
+        "imperial": "155 lb",
+        "metric": "70 kg",
+        "eng": "11.1 st"
+      },
+      "division": null,
+      "reach": null,
+      "style": null,
+      "stance": null,
+      "fight_out_of": null,
+      "team": null,
+      "trainer": null,
+      "rank": null,
+      "years_active": null,
+      "total": null,
+      "wins": null,
+      "by_knockout": null,
+      "by_submission": null,
+      "by_decision": null,
+      "losses": null,
+      "website": null
+    }
+  },
+  {
+    "link": "https://en.m.wikipedia.org/wiki/Abel_Trujillo",
+    "name": "Abel Trujillo",
+    "outcome": "Win",
+    "info": {
+      "name": "Abel Nazario Trujillo",
+      "image": "https://en.m.wikipedia.org/wiki/Greensboro,_North_Carolina",
+      "born": null,
+      "native_name": null,
+      "nick_name": null,
+      "nationality": null,
+      "height": {
+        "imperial": "5 ft 8 in",
+        "metric": "1.73 m"
+      },
+      "weight": {
+        "imperial": "156 lb",
+        "metric": "71 kg",
+        "eng": "11.1 st"
+      },
+      "division": null,
+      "reach": null,
+      "style": null,
+      "stance": null,
+      "fight_out_of": null,
+      "team": null,
+      "trainer": null,
+      "rank": null,
+      "years_active": null,
+      "total": null,
+      "wins": null,
+      "by_knockout": null,
+      "by_submission": null,
+      "by_decision": null,
+      "losses": null,
+      "website": null
+    }
+  },
+  {
+    "link": "https://en.m.wikipedia.org/wiki/Thiago_Tavares",
+    "name": "Thiago Tavares",
+    "outcome": "Win",
+    "info": {
+      "name": "Thiago Tavares",
+      "image": "https://en.m.wikipedia.org/wiki/Florian%C3%B3polis",
+      "born": null,
+      "native_name": null,
+      "nick_name": null,
+      "nationality": null,
+      "height": {
+        "imperial": "5 ft 7 in",
+        "metric": "1.70 m"
+      },
+      "weight": {
+        "imperial": "146 lb",
+        "metric": "66 kg",
+        "eng": "10.4 st"
+      },
+      "division": null,
+      "reach": null,
+      "style": null,
+      "stance": null,
+      "fight_out_of": null,
+      "team": null,
+      "trainer": null,
+      "rank": null,
+      "years_active": null,
+      "total": null,
+      "wins": null,
+      "by_knockout": null,
+      "by_submission": null,
+      "by_decision": null,
+      "losses": null,
+      "website": null
+    }
+  },
+  {
+    "link": "https://en.m.wikipedia.org/wiki/Gleison_Tibau",
+    "name": "Gleison Tibau",
+    "outcome": "Win",
+    "info": {
+      "name": "Gleison Tibau",
+      "image": "https://en.m.wikipedia.org/wiki/Tibau",
+      "born": null,
+      "native_name": null,
+      "nick_name": null,
+      "nationality": null,
+      "height": {
+        "imperial": "5 ft 10 in",
+        "metric": "1.78 m"
+      },
+      "weight": {
+        "imperial": "170 lb",
+        "metric": "77 kg",
+        "eng": "12 st"
+      },
+      "division": null,
+      "reach": null,
+      "style": null,
+      "stance": null,
+      "fight_out_of": null,
+      "team": null,
+      "trainer": null,
+      "rank": null,
+      "years_active": null,
+      "total": null,
+      "wins": null,
+      "by_knockout": null,
+      "by_submission": null,
+      "by_decision": null,
+      "losses": null,
+      "website": null
+    }
+  },
+  {
+    "link": "https://en.m.wikipedia.org/wiki/Kamal_Shalorus",
+    "name": "Kamal Shalorus",
+    "outcome": "Win",
+    "info": {
+      "name": "Kamal Shalorus",
+      "image": "https://en.m.wikipedia.org/wiki/Khalkhal,_Ardabil",
+      "born": null,
+      "native_name": null,
+      "nick_name": null,
+      "nationality": null,
+      "height": {
+        "imperial": "5 ft 8 in",
+        "metric": "1.73 m"
+      },
+      "weight": {
+        "imperial": "155 lb",
+        "metric": "70 kg",
+        "eng": "11.1 st"
+      },
+      "division": null,
+      "reach": null,
+      "style": null,
+      "stance": null,
+      "fight_out_of": null,
+      "team": null,
+      "trainer": null,
+      "rank": null,
+      "years_active": null,
+      "total": null,
+      "wins": null,
+      "by_knockout": null,
+      "by_submission": null,
+      "by_decision": null,
+      "losses": null,
+      "website": null
+    }
+  },
+  {
+    "link": null,
+    "name": "Arymarcel Santos",
+    "outcome": "Win"
+  },
+  {
+    "link": null,
+    "name": "Vadim Sandulskiy",
+    "outcome": "Win"
+  },
+  {
+    "link": null,
+    "name": "Khamiz Mamedov",
+    "outcome": "Win"
+  },
+  {
+    "link": null,
+    "name": "Kadzhik Abadzhyan",
+    "outcome": "Win"
+  },
+  {
+    "link": null,
+    "name": "Ashot Shaginyan",
+    "outcome": "Win"
+  },
+  {
+    "link": null,
+    "name": "Said Khalilov",
+    "outcome": "Win"
+  },
+  {
+    "link": null,
+    "name": "Alexander Agafonov",
+    "outcome": "Win"
+  },
+  {
+    "link": null,
+    "name": "Vitaliy Ostroskiy",
+    "outcome": "Win"
+  },
+  {
+    "link": "https://en.m.wikipedia.org/wiki/Ali_Bagov",
+    "name": "Ali Bagov",
+    "outcome": "Win",
+    "info": {
+      "name": "Ali Bagov",
+      "image": "https://en.m.wikipedia.org/wiki/Baksan_(town)",
+      "born": null,
+      "native_name": null,
+      "nick_name": null,
+      "nationality": "Russian",
+      "height": {
+        "imperial": "5 ft 9 in",
+        "metric": "1.75 m"
+      },
+      "weight": {
+        "imperial": "155 lb",
+        "metric": "70 kg",
+        "eng": "11 st 1 lb"
+      },
+      "division": null,
+      "reach": null,
+      "style": null,
+      "stance": null,
+      "fight_out_of": null,
+      "team": null,
+      "trainer": null,
+      "rank": null,
+      "years_active": null,
+      "total": null,
+      "wins": null,
+      "by_knockout": null,
+      "by_submission": null,
+      "by_decision": null,
+      "losses": null,
+      "website": null
+    }
+  },
+  {
+    "link": "https://en.m.wikipedia.org/wiki/Shahbulat_Shamhalaev",
+    "name": "Shahbulat Shamhalaev",
+    "outcome": "Win",
+    "info": {
+      "name": "Shahbulat Shamhalaev",
+      "image": "https://en.m.wikipedia.org/wiki/Makhachkala",
+      "born": null,
+      "native_name": null,
+      "nick_name": null,
+      "nationality": null,
+      "height": {
+        "imperial": "5 ft 6 in",
+        "metric": "1.68 m"
+      },
+      "weight": {
+        "imperial": "145 lb",
+        "metric": "66 kg",
+        "eng": "10.4 st"
+      },
+      "division": null,
+      "reach": null,
+      "style": null,
+      "stance": null,
+      "fight_out_of": null,
+      "team": null,
+      "trainer": null,
+      "rank": null,
+      "years_active": null,
+      "total": null,
+      "wins": null,
+      "by_knockout": null,
+      "by_submission": null,
+      "by_decision": null,
+      "losses": null,
+      "website": null
+    }
+  },
+  {
+    "link": null,
+    "name": "Eldar Eldarov",
+    "outcome": "Win"
+  },
+  {
+    "link": null,
+    "name": "Said Akhmed",
+    "outcome": "Win"
+  },
+  {
+    "link": null,
+    "name": "Shamil Abdulkerimov",
+    "outcome": "Win"
+  },
+  {
+    "link": null,
+    "name": "Ramazan Kurbanismailov",
+    "outcome": "Win"
+  },
+  {
+    "link": null,
+    "name": "Magomed Magomedov",
+    "outcome": "Win"
+  },
+  {
+    "link": null,
+    "name": "Vusal Bayramov",
+    "outcome": "Win"
+  }
+]
